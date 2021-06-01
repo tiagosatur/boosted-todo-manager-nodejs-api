@@ -25,7 +25,8 @@ To help you with this challenge, we've created this template for you that you sh
 The template is available at the following URL: [https://github.com/rocketseat-education/ignite-template-trabalhando-com-middlewares](https://github.com/rocketseat-education/ignite-template-trabalhando-com-middlewares)
 
 Tip: If you don't know how to use GitHub repositories as a template, we have a guide in our FAQ. Now navigate to the created folder, open it in Visual Studio Code and finally open the index.js file . Remember to run the yarn command on your terminal to install all dependencies and you will have the following code:
-![https://i.imgur.com/xRNTZRw.png](src/index.js code image)
+
+![src/index.js code image](https://i.imgur.com/xRNTZRw.png)
 
 ## Application Middlewares
 
